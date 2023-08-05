@@ -1,0 +1,5 @@
+# Result of subtracting two inputs
+# Give to Prof. Michal to compile
+x = read;
+y = read;
+print x + y;
